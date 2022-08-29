@@ -6,16 +6,14 @@ Decidi desenvolver uma página web simples, utilizando apenas HTML e CSS, com in
 
 Abaixo, screenshots da página pronta:
 
-![image-20220828235821264](C:\Users\isacc\AppData\Roaming\Typora\typora-user-images\image-20220828235821264.png)
+![image](https://user-images.githubusercontent.com/107009198/187114809-80a0e933-b406-4c58-9b9c-23b9db41595a.png)
 
-![image-20220828235838872](C:\Users\isacc\AppData\Roaming\Typora\typora-user-images\image-20220828235838872.png)
+![image](https://user-images.githubusercontent.com/107009198/187114836-0c307c83-665e-4372-a15e-e8fb0a0ff334.png)
 
-![image-20220828235853267](C:\Users\isacc\AppData\Roaming\Typora\typora-user-images\image-20220828235853267.png)
+![image](https://user-images.githubusercontent.com/107009198/187114854-f00b39e3-e516-41c6-916b-150a963c4ffd.png)
 
-![image-20220828235910103](C:\Users\isacc\AppData\Roaming\Typora\typora-user-images\image-20220828235910103.png)
+![image](https://user-images.githubusercontent.com/107009198/187114874-194ca855-1487-4057-80f2-a9f06f088b29.png)
 
-![image-20220828235924146](C:\Users\isacc\AppData\Roaming\Typora\typora-user-images\image-20220828235924146.png)
-
-
+![image](https://user-images.githubusercontent.com/107009198/187114903-e151ea76-0c7e-4bd9-b90d-287bd51ec33d.png)
 
 Para executar o site em sua máquina, certifique-se de rodar o conteúdo da Pasta em um servidor como por exemplo, o Google Web Server.
